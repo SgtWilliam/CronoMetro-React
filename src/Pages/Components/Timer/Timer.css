@@ -1,0 +1,27 @@
+* {
+}
+
+.timer {
+    display: flex;
+    background: white;
+    border-radius: 30px;
+    align-items: center;
+    margin-left: 30vh;
+}
+
+.time {
+    background: transparent;
+    margin-left: 30vh
+}
+
+.btns {
+    margin-left: 20px;
+    transition-duration: 0.4s;
+    background: green;
+}
+
+
+.Text {
+    background: transparent;
+
+}
